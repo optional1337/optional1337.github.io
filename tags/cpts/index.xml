@@ -14,11 +14,11 @@
     <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/cpts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>From zero to CPTS: My journey!</title>
+      <title>How to Pass the CPTS: A Complete Roadmap</title>
       <link>https://optional1337.github.io/posts/cpts/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/posts/cpts/</guid>
-      <description>All the preparation in the world means nothing if exam day falls apart. I share practical tips on time management, handling tricky questions, and keeping your head calm - based on my own experience sitting in that chair.</description>
+      <description>A practical, step-by-step roadmap for passing the HackTheBox CPTS covering prerequisites, the HTB path, lab practice, exam strategy, and report writing.</description>
     </item>
   </channel>
 </rss>
