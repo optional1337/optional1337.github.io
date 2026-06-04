@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://optional1337.github.io/sitemap.xml
