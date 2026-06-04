@@ -1,0 +1,91 @@
+.rounded img {
+  border-radius: 50%;
+}
+
+.callout {
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin: 20px 0;
+  font-size: 0.95rem;
+}
+
+.callout-title {
+  font-weight: 600;
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+/* matches the dark blue box in your screenshot */
+.callout-insight {
+  background-color: #1e2a45;
+  color: #c9d8f0;
+}
+
+.callout-insight .callout-title {
+  color: #a8c4e8;
+}
+
+.callout-tip {
+  border-left: 3px solid #7c3aed;
+  background-color: rgba(124, 58, 237, 0.07);
+}
+
+.callout-warning {
+  border-left: 3px solid #ff0000;
+  background-color: rgba(217, 80, 6, 0.07);
+}
+
+.callout-info {
+  border-left: 3px solid #00ff40;
+  /* color: #00c60a; */
+  background-color: rgba(0, 198, 10, 0.07);
+}
+
+.badge {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 5px;
+  font-size: 0.85em;
+  font-family: monospace;
+  font-weight: 500;
+}
+
+.badge-purple { background: #2e1f5e; color: #c4b5fd; }
+.badge-blue   { background: #1e3a5f; color: #93c5fd; }
+.badge-green  { background: #14532d; color: #86efac; }
+.badge-red    { background: #450a0a; color: #fca5a5; }
+.badge-yellow { background: #422006; color: #fcd34d; }
+.badge-gray   { background: #1f2937; color: #d1d5db; }
+
+
+.image-row {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+.image-row figure {
+  flex: 1;
+  margin: 0;
+  text-align: center;
+}
+
+.image-row figure img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.image-row figure figcaption {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 6px;
+}
+
+/* stack vertically on mobile */
+@media (max-width: 600px) {
+  .image-row {
+    flex-direction: column;
+  }
+}

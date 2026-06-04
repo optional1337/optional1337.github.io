@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>optional</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on optional</description>
+    <image>
+      <title>optional</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From zero to CPTS: My journey!</title>
+      <link>http://localhost:1313/posts/cpts/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cpts/</guid>
+      <description>All the preparation in the world means nothing if exam day falls apart. I share practical tips on time management, handling tricky questions, and keeping your head calm - based on my own experience sitting in that chair.</description>
+    </item>
+    <item>
+      <title>Easier Way to Povit: Ligolo-ng</title>
+      <link>http://localhost:1313/posts/ligolo-ng/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ligolo-ng/</guid>
+      <description>A practical Ligolo-ng guide covering tunneling, listeners, jump boxes, and multi-hop pivoting techniques.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;
+&lt;p&gt;My name is Gourav, also known as &lt;strong&gt;Optional&lt;/strong&gt;.&lt;/p&gt;
+&lt;figure class=&#34;align-center rounded&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/dog.jpeg#center&#34;
+         alt=&#34;Noob Huker&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Noob Huker&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I started this blog in 2026 to share my journey into cybersecurity and talk about topics that interest me.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re starting out in cybersecurity or curious about ethical hacking, whether for fun or as a career, I hope you&amp;rsquo;ll find something helpful here.&lt;/p&gt;
+&lt;p&gt;Currently, I have been working in cybersecurity for &lt;strong&gt;2 years&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;socials&#34;&gt;Socials&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m not really on social media, but you can find me on these platforms:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

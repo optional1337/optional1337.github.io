@@ -1,0 +1,4 @@
+<div class="callout callout-{{ .Get 0 }}">
+  {{ if .Get 1 }}<p class="callout-title">{{ .Get 1 }}</p>{{ end }}
+  <div class="callout-body">{{ .Inner | markdownify }}</div>
+</div>

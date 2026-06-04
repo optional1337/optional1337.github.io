@@ -1,0 +1,13 @@
+<div class="image-row">
+  {{ $images := slice }}
+  {{ range $i, $v := .Params }}
+    {{ if eq (mod $i 2) 0 }}
+      {{ $src := $v }}
+      {{ $cap := index $.Params (add $i 1) }}
+      <figure>
+        <img src="{{ $src }}" alt="{{ $cap }}">
+        <figcaption>{{ $cap }}</figcaption>
+      </figure>
+    {{ end }}
+  {{ end }}
+</div>
