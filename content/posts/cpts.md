@@ -225,7 +225,7 @@ The CPTS exam requires double pivoting at certain points you're not just moving 
 
 {{< callout info "🛠️ Full setup guide" >}}
 
-I've written a dedicated blog post covering exactly how to set up and use Ligolo-ng for pivoting from installing the proxy and agent to adding routes and handling multiple subnets. Check it out here: [your Ligolo blog post link]
+I've written a dedicated blog post covering exactly how to set up and use Ligolo-ng for pivoting from installing the proxy and agent to adding routes and handling multiple subnets. Check it out here: https://optional1337.github.io/posts/ligolo-ng/
 {{< /callout >}}
 
 ### BloodHound And PowerView
