@@ -124,10 +124,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 10
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 10
     - identifier: posts
       name: Posts
       url: /posts/
