@@ -130,7 +130,11 @@ Complete both:
 
 Between the two, you'll cover most of what the exam tests.
 
+
 {{< image-row "/images/cptstrack.png" "CPTS Track" "/images/cptsad.png" "AD Track" >}}
+
+- Watch IppSec [Unofficial CPTS Playlist](https://www.youtube.com/watch?v=H9FcE_FMZio&list=PLidcsTyj9JXItWpbRtTg6aDEj10_F17x5)
+
 
 ### Pro Labs (Optional)
 
