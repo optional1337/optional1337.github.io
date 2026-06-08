@@ -15,9 +15,9 @@
     <atom:link href="https://optional1337.github.io/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WebVerse: Halftone Studio</title>
-      <link>https://optional1337.github.io/writeups/webverse/halftone_studio/</link>
+      <link>https://optional1337.github.io/writeups/halftone_studio/</link>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://optional1337.github.io/writeups/webverse/halftone_studio/</guid>
+      <guid>https://optional1337.github.io/writeups/halftone_studio/</guid>
       <description>JWT Algorithm Confusion (RS256 → HS256) attack Challenge Lab Writeup.</description>
     </item>
     <item>
