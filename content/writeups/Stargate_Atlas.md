@@ -149,9 +149,9 @@ The result looks like:
 *The same result can be achieved using the **JSON Web Tokens** extension in Burp Suite, which lets you edit JWT fields visually and choose the signing algorithm.*
 {{< /callout>}}
 
-### Method #2 : JSON Web Tokens
+### Method #2 : JSON Web Token(JWT Editor)
 
-{{< figure align="center" src="/images/Stargate_Atlas_5.png" caption="Forging Token with JSON Web Tokens" >}}
+{{< figure align="center" src="/images/Stargate_Atlas_5.png" caption="Forging Token with JSON Web Token(JWT Editor)" >}}
 
 ### Method #3 : JWT Tool
 
