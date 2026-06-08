@@ -21,6 +21,13 @@
       <description>A practical, step-by-step roadmap for passing the HackTheBox CPTS covering prerequisites, the HTB path, lab practice, exam strategy, and report writing.</description>
     </item>
     <item>
+      <title>WebVerse: Stargate Atlas</title>
+      <link>https://optional1337.github.io/writeups/stargate_atlas/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/stargate_atlas/</guid>
+      <description>JWT Algorithm Confusion: The alg: none Attack — Challenge Lab Writeup.</description>
+    </item>
+    <item>
       <title>Easier Way to Povit: Ligolo-ng</title>
       <link>https://optional1337.github.io/posts/ligolo-ng/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Webverse on optional</title>
+    <link>https://optional1337.github.io/tags/webverse/</link>
+    <description>Recent content in Webverse on optional</description>
+    <image>
+      <title>optional</title>
+      <url>https://optional1337.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://optional1337.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://optional1337.github.io/tags/webverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebVerse: Stargate Atlas</title>
+      <link>https://optional1337.github.io/writeups/stargate_atlas/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/stargate_atlas/</guid>
+      <description>JWT Algorithm Confusion: The alg: none Attack — Challenge Lab Writeup.</description>
+    </item>
+  </channel>
+</rss>
