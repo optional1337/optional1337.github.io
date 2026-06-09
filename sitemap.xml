@@ -3,31 +3,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://optional1337.github.io/writeups/halftone_studio/</loc>
-    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://optional1337.github.io/writeups/stargate_atlas/</loc>
-    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://optional1337.github.io/posts/cpts/</loc>
     <lastmod>2026-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/posts/ligolo-ng/</loc>
     <lastmod>2026-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://optional1337.github.io/tags/jwt/</loc>
+    <loc>https://optional1337.github.io/writeups/web_foundations/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/writeups/halftone_studio/</loc>
     <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/writeups/stargate_atlas/</loc>
+    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/junior-web-hacker/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/</loc>
-    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/tags/</loc>
-    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/web-foundations/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/tags/webverse/</loc>
-    <lastmod>2026-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/writeups/</loc>
+    <lastmod>2026-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/jwt/</loc>
     <lastmod>2026-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/tags/cpts/</loc>

@@ -11,22 +11,8 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>WebVerse: Halftone Studio</title>
-      <link>https://optional1337.github.io/writeups/halftone_studio/</link>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://optional1337.github.io/writeups/halftone_studio/</guid>
-      <description>JWT Algorithm Confusion (RS256 → HS256) attack Challenge Lab Writeup.</description>
-    </item>
-    <item>
-      <title>WebVerse: Stargate Atlas</title>
-      <link>https://optional1337.github.io/writeups/stargate_atlas/</link>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://optional1337.github.io/writeups/stargate_atlas/</guid>
-      <description>JWT Algorithm Confusion: The alg: none Attack — Challenge Lab Writeup.</description>
-    </item>
     <item>
       <title>How to Pass the CPTS: A Complete Roadmap</title>
       <link>https://optional1337.github.io/posts/cpts/</link>
@@ -40,6 +26,27 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/posts/ligolo-ng/</guid>
       <description>A practical Ligolo-ng guide covering tunneling, listeners, jump boxes, and multi-hop pivoting techniques.</description>
+    </item>
+    <item>
+      <title>WebVerse: Junior Web Hacker (Web Foundations)</title>
+      <link>https://optional1337.github.io/writeups/web_foundations/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/web_foundations/</guid>
+      <description>Web Foundations:  Ten beginner web security challenge labs writeup.</description>
+    </item>
+    <item>
+      <title>WebVerse: Halftone Studio</title>
+      <link>https://optional1337.github.io/writeups/halftone_studio/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/halftone_studio/</guid>
+      <description>JWT Algorithm Confusion (RS256 → HS256) attack Challenge Lab Writeup.</description>
+    </item>
+    <item>
+      <title>WebVerse: Stargate Atlas</title>
+      <link>https://optional1337.github.io/writeups/stargate_atlas/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/stargate_atlas/</guid>
+      <description>JWT Algorithm Confusion: The alg: none Attack — Challenge Lab Writeup.</description>
     </item>
     <item>
       <title>About</title>
