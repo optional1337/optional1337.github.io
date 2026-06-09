@@ -1,7 +1,7 @@
 ---
 title: "Easier Way to Povit: Ligolo-ng"
 date: 2026-06-04
-weight: 3
+weight: 2
 # aliases: ["/first"]
 tags: ["Ligolo","Pivoit"]
 author: "Gourav."
