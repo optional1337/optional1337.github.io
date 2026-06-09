@@ -15,12 +15,12 @@ ShowReadingTime: true
 ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
-# cover:
-#     image: "/images/webverse.png"
-#     alt: "Stargate Atlas challenge"
-#     caption: "Stargate Atlas challenge (JWT)"
-#     relative: false
-#     hidden: false
+cover:
+    image: "/images/stargate_atlas_cover.svg"
+    alt: "Stargate Atlas challenge"
+    caption: "Stargate Atlas challenge (JWT)"
+    relative: false
+    hidden: false
 ---
 
 {{< callout warning >}}
