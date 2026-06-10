@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/webverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebVerse: Junior Web Hacker (Authentication Attacks)</title>
+      <link>https://optional1337.github.io/writeups/authentication_attacks/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/authentication_attacks/</guid>
+      <description>Authentication Attacks: Six web security challenge labs writeup covering default credentials, brute force, MFA bypass, and more.</description>
+    </item>
     <item>
       <title>WebVerse: Junior Web Hacker (Web Foundations)</title>
       <link>https://optional1337.github.io/writeups/web_foundations/</link>

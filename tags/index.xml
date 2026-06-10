@@ -11,13 +11,27 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication Attacks</title>
+      <link>https://optional1337.github.io/tags/authentication-attacks/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/tags/authentication-attacks/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Junior Web Hacker</title>
       <link>https://optional1337.github.io/tags/junior-web-hacker/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/tags/junior-web-hacker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webverse</title>
+      <link>https://optional1337.github.io/tags/webverse/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/tags/webverse/</guid>
       <description></description>
     </item>
     <item>
@@ -25,13 +39,6 @@
       <link>https://optional1337.github.io/tags/web-foundations/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/tags/web-foundations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Webverse</title>
-      <link>https://optional1337.github.io/tags/webverse/</link>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://optional1337.github.io/tags/webverse/</guid>
       <description></description>
     </item>
     <item>
