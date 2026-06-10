@@ -25,7 +25,7 @@ cover:
 
 {{< callout warning >}}
 
-**Web Foundations**:  Ten beginner web security challenge labs writeup.
+**Web Foundations:**  Ten beginner web security challenge labs writeup.
 
 **Platform:** webverse
 
@@ -39,6 +39,7 @@ cover:
 **Category:** Web Security / HTTP Headers
 
 **Vulnerability:** Sensitive data exposed in HTTP response headers
+
 {{< /callout>}}
 
 {{< figure align="center" src="/images/Header_Hunt_1.png" caption="Header Hunt challenge" >}}
