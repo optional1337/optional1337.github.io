@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1d22"/>
+      <stop offset="100%" stop-color="#2e2e33"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#e8485a" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e8485a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1.6" fill="#ffffff" opacity="0.06"/>
+    </pattern>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b81"/>
+      <stop offset="100%" stop-color="#ffb199"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+  <circle cx="980" cy="120" r="320" fill="url(#glow)"/>
+
+  <!-- subtle halftone gradient circles, nod to "halftone" series styling -->
+  <g opacity="0.5">
+    <circle cx="1040" cy="470" r="3" fill="#ff6b81"/>
+    <circle cx="1010" cy="500" r="5" fill="#ff6b81" opacity="0.8"/>
+    <circle cx="1075" cy="500" r="4" fill="#ff6b81" opacity="0.7"/>
+    <circle cx="980" cy="540" r="7" fill="#ff6b81" opacity="0.6"/>
+    <circle cx="1040" cy="540" r="6" fill="#ff6b81" opacity="0.5"/>
+    <circle cx="1100" cy="540" r="5" fill="#ff6b81" opacity="0.45"/>
+    <circle cx="950" cy="580" r="9" fill="#ff6b81" opacity="0.4"/>
+    <circle cx="1015" cy="585" r="8" fill="#ff6b81" opacity="0.35"/>
+    <circle cx="1080" cy="585" r="7" fill="#ff6b81" opacity="0.3"/>
+    <circle cx="1145" cy="585" r="6" fill="#ff6b81" opacity="0.25"/>
+  </g>
+
+  <!-- top-left tag -->
+  <g font-family="JetBrains Mono, Fira Code, Consolas, monospace">
+    <text x="70" y="90" font-size="22" fill="#ff6b81" letter-spacing="3">WEBVERSE // WRITEUP</text>
+  </g>
+
+  <!-- main title -->
+  <g font-family="JetBrains Mono, Fira Code, Consolas, monospace">
+    <text x="68" y="250" font-size="92" font-weight="700" fill="#f5f5f7">PhoneVault</text>
+    <rect x="70" y="270" width="360" height="6" fill="url(#accent)"/>
+  </g>
+
+  <!-- subtitle -->
+  <g font-family="Inter, Helvetica, Arial, sans-serif">
+    <text x="70" y="335" font-size="30" fill="#cfcfd4">Stored XSS &#8212; CSP Bypass via JSONP</text>
+    <text x="70" y="375" font-size="22" fill="#9a9aa3">Session cookie theft &amp; admin takeover</text>
+  </g>
+
+  <!-- tag chips -->
+  <g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="20" font-weight="600">
+    <rect x="70" y="430" width="100" height="42" rx="21" fill="#3a2c30"/>
+    <text x="92" y="458" fill="#ff8a99">XSS</text>
+
+    <rect x="184" y="430" width="180" height="42" rx="21" fill="#33312c"/>
+    <text x="206" y="458" fill="#ffd28a">CSP BYPASS</text>
+
+    <rect x="378" y="430" width="150" height="42" rx="21" fill="#2c3330"/>
+    <text x="400" y="458" fill="#8affb4">JSONP</text>
+
+    <rect x="542" y="430" width="200" height="42" rx="21" fill="#2c2f33"/>
+    <text x="564" y="458" fill="#8ad2ff">SESSION HIJACK</text>
+  </g>
+
+  <!-- illustration: phone outline with a "cookie" leaking through a script bracket -->
+  <g transform="translate(860, 120) scale(1.28)">
+    <!-- phone body -->
+    <rect x="0" y="0" width="150" height="270" rx="22" fill="none" stroke="#5a5a63" stroke-width="4"/>
+    <rect x="14" y="14" width="122" height="216" rx="6" fill="#1a1b1f" stroke="#3a3a40" stroke-width="2"/>
+    <rect x="60" y="248" width="30" height="6" rx="3" fill="#5a5a63"/>
+
+    <!-- broken padlock icon on screen -->
+    <g transform="translate(40, 60)">
+      <rect x="10" y="36" width="50" height="40" rx="6" fill="none" stroke="#ff6b81" stroke-width="4"/>
+      <path d="M18 36 V22 a17 17 0 0 1 34 0 v6" fill="none" stroke="#ff6b81" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="35" cy="56" r="5" fill="#ff6b81"/>
+      <line x1="35" y1="58" x2="35" y2="66" stroke="#ff6b81" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <!-- code brackets representing the JSONP gadget -->
+    <g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="14" fill="#7fffb0">
+      <text x="20" y="170">&lt;script src=</text>
+      <text x="20" y="190">"/api/products</text>
+      <text x="20" y="210">?callback=...</text>
+      <text x="20" y="230">&gt;</text>
+    </g>
+  </g>
+
+  <!-- connecting arrow / exfil line -->
+  <g stroke="#ff6b81" stroke-width="3" fill="none" opacity="0.7">
+    <path d="M740 380 C 790 340, 830 310, 865 290" stroke-dasharray="6 8"/>
+    <circle cx="865" cy="290" r="5" fill="#ff6b81"/>
+  </g>
+
+  <!-- bottom-right author tag -->
+  <g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="18" fill="#6f6f78">
+    <text x="1150" y="600" text-anchor="end">optional1337.github.io</text>
+  </g>
+</svg>
