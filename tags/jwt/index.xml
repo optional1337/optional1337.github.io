@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WebVerse: Halftone Studio</title>
@@ -26,6 +26,13 @@
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/writeups/stargate_atlas/</guid>
       <description>JWT Algorithm Confusion: The alg: none Attack — Challenge Lab Writeup.</description>
+    </item>
+    <item>
+      <title>WebVerse: Stillwater Co-op Bank</title>
+      <link>https://optional1337.github.io/writeups/stillwater_co-op_bank/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/stillwater_co-op_bank/</guid>
+      <description>JWT kid Path Traversal attack Challenge Lab Writeup.</description>
     </item>
   </channel>
 </rss>

@@ -11,20 +11,27 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CSP</title>
-      <link>https://optional1337.github.io/tags/csp/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://optional1337.github.io/tags/csp/</guid>
+      <title>JWT</title>
+      <link>https://optional1337.github.io/tags/jwt/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
       <title>Webverse</title>
       <link>https://optional1337.github.io/tags/webverse/</link>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/tags/webverse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSP</title>
+      <link>https://optional1337.github.io/tags/csp/</link>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/tags/csp/</guid>
       <description></description>
     </item>
     <item>
@@ -53,13 +60,6 @@
       <link>https://optional1337.github.io/tags/web-foundations/</link>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/tags/web-foundations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JWT</title>
-      <link>https://optional1337.github.io/tags/jwt/</link>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://optional1337.github.io/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
