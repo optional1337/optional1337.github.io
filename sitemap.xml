@@ -9,6 +9,9 @@
     <loc>https://optional1337.github.io/posts/ligolo-ng/</loc>
     <lastmod>2026-06-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://optional1337.github.io/writeups/mookoo/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://optional1337.github.io/writeups/phonevault/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -31,6 +34,15 @@
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/rce/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/ruby/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/ssti/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/tags/</loc>

@@ -28,6 +28,13 @@
       <description>A practical Ligolo-ng guide covering tunneling, listeners, jump boxes, and multi-hop pivoting techniques.</description>
     </item>
     <item>
+      <title>WebVerse: MooKoo</title>
+      <link>https://optional1337.github.io/writeups/mookoo/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/mookoo/</guid>
+      <description>Ruby ERB Server-Side Template Injection (SSTI) leading to RCE - Challenge Lab Writeup.</description>
+    </item>
+    <item>
       <title>WebVerse: PhoneVault</title>
       <link>https://optional1337.github.io/writeups/phonevault/</link>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
