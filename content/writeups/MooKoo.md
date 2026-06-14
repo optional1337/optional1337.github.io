@@ -70,7 +70,7 @@ The server happily echoes our input back inside its "not found" message:
 That reflection is the first real signal - whatever we put in {{< badge blue >}}product{{< /badge >}} ends up somewhere in the rendered page.
 
 
-## HTML Injection
+## HTML Rendering
 
 To check whether that reflection is encoded, we try a simple HTML tag:
 
