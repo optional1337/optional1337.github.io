@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Pass the CPTS: A Complete Roadmap</title>
@@ -68,6 +68,13 @@
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://optional1337.github.io/writeups/stargate_atlas/</guid>
       <description>JWT Algorithm Confusion: The alg: none Attack — Challenge Lab Writeup.</description>
+    </item>
+    <item>
+      <title>WebVerse: Locked</title>
+      <link>https://optional1337.github.io/writeups/locked/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/locked/</guid>
+      <description>Broken authentication via exposed .git repository and forged remember_me cookie — Challenge Lab Writeup.</description>
     </item>
     <item>
       <title>WebVerse: Stillwater Co-op Bank</title>
