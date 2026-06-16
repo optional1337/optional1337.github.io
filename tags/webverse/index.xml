@@ -14,6 +14,13 @@
     <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/webverse/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>WebVerse: KrissCut</title>
+      <link>https://optional1337.github.io/writeups/krisscut/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/krisscut/</guid>
+      <description>Boolean-based blind SQL injection with WAF bypass via sqlmap tamper scripts — Challenge Lab Writeup.</description>
+    </item>
+    <item>
       <title>WebVerse: Locked</title>
       <link>https://optional1337.github.io/writeups/locked/</link>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
