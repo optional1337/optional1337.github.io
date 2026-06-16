@@ -1,7 +1,7 @@
 ---
 title: "WebVerse: Locked"
 date: 2026-06-16
-weight: 5
+weight: 4
 tags: ["webverse","Broken Auth"]
 author: "Gourav."
 showToc: true
