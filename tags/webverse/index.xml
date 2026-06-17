@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/tags/webverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebVerse: MeltDown</title>
+      <link>https://optional1337.github.io/writeups/meltdown/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/meltdown/</guid>
+      <description>LDAP Injection Authentication Bypass Challenge Lab Writeup.</description>
+    </item>
     <item>
       <title>WebVerse: KrissCut</title>
       <link>https://optional1337.github.io/writeups/krisscut/</link>
