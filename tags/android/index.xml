@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on optional</title>
+    <link>https://optional1337.github.io/tags/android/</link>
+    <description>Recent content in Android on optional</description>
+    <image>
+      <title>optional</title>
+      <url>https://optional1337.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://optional1337.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://optional1337.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Hacking Lab: Strings</title>
+      <link>https://optional1337.github.io/writeups/strings/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/strings/</guid>
+      <description>Android deep link intent injection with Frida instrumentation — Challenge Lab Writeup.</description>
+    </item>
+  </channel>
+</rss>

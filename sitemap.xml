@@ -9,6 +9,9 @@
     <loc>https://optional1337.github.io/posts/ligolo-ng/</loc>
     <lastmod>2026-06-04T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://optional1337.github.io/writeups/strings/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://optional1337.github.io/writeups/meltdown/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -39,19 +42,31 @@
     <loc>https://optional1337.github.io/writeups/stillwater_co-op_bank/</loc>
     <lastmod>2026-06-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://optional1337.github.io/tags/android/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/frida/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/jadx/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/mobilehackinglab/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/tags/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optional1337.github.io/writeups/</loc>
+    <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://optional1337.github.io/tags/ldap-injection/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://optional1337.github.io/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://optional1337.github.io/tags/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://optional1337.github.io/tags/webverse/</loc>
-    <lastmod>2026-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://optional1337.github.io/writeups/</loc>
     <lastmod>2026-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://optional1337.github.io/tags/broken-auth/</loc>

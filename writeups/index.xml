@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://optional1337.github.io/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Hacking Lab: Strings</title>
+      <link>https://optional1337.github.io/writeups/strings/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://optional1337.github.io/writeups/strings/</guid>
+      <description>Android deep link intent injection with Frida instrumentation — Challenge Lab Writeup.</description>
+    </item>
     <item>
       <title>WebVerse: MeltDown</title>
       <link>https://optional1337.github.io/writeups/meltdown/</link>
