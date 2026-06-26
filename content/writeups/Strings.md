@@ -15,7 +15,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/images/strings_cover.svg"
+    image: "/images/Strings_cover.svg"
     alt: "Strings challenge"
     caption: "Strings challenge (Android RE)"
     relative: false
